@@ -1,1 +1,2 @@
 This is a changed file.
+This is a different type of change.
